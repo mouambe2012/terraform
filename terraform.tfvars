@@ -1,0 +1,5 @@
+region        = "us-east-1"
+ami           = "ami-0715c1897453cabd1"
+keypair       = "jenkins"
+instance-type = "t2.micro"
+name          = "dev-server"
